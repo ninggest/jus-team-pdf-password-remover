@@ -35,7 +35,8 @@
 3. 右键点击项目根目录下的 `BUILD.ps1` 并选择“通过 PowerShell 运行”。
 4. 构建生成的安装包将位于 `src-tauri/target/release/bundle/msi/`。
 
-## 版权信息
+## 开源协议
 
-Copyright (c) 2026 **Zane** v1.0.0
+MIT License
+Copyright (c) 2026 **Zane**
 基于 Justeam 技术框架构建。
